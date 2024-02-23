@@ -4,14 +4,14 @@ This repository is dedicated to the CODSOFT INTERNSHIP
 
 JAVA PROGRAMMING 
 
-TASKS :
+#  TASKS :
         1. NUMBER GAME 
         2. STUDENT GRADE CALCULATOR 
         3. ATM INTERFACE
         4. QUIZ APPLICATION WITH TIMER
         5. STUDENT COURSE REGISTRATION SYSTEM
 
-**NUMBER GAME :
+# NUMBER GAME :
  1. Generate a random number within a specified range, such as 1 to 100.
  2. Prompt the user to enter their guess for the generated number.
  3. Compare the user's guess with the generated number and provide feedback on whether the guess
@@ -22,7 +22,7 @@ TASKS :
  6. Add the option for multiple rounds, allowing the user to play again.
  7. Display the user's score, which can be based on the number of attempts taken or rounds won.
 
-**STUDENT GRADE CALCULATOR :
+# STUDENT GRADE CALCULATOR :
  Input: Take marks obtained (out of 100) in each subject.
  Calculate Total Marks: Sum up the marks obtained in all subjects.
  Calculate Average Percentage: Divide the total marks by the total number of subjects to get the
@@ -30,7 +30,7 @@ TASKS :
  Grade Calculation: Assign grades based on the average percentage achieved.
  Display Results: Show the total marks, average percentage, and the corresponding grade to the use
 
-**ATM INTERFACE :
+#ATM INTERFACE :
  1. Create a class to represent the ATM machine.
  2. Design the user interface for the ATM, including options such as withdrawing, depositing, and
  checking the balance.
@@ -43,16 +43,15 @@ TASKS :
  7. Display appropriate messages to the user based on their chosen options and the success or failure
  of their transactions.
 
-** QUIZ APPLICATION WITH TIMER :
- 1. Quiz Questions and Options: Store quiz questions along with multiple-choice options and correct
- answers.
+# QUIZ APPLICATION WITH TIMER :
+ 1. Quiz Questions and Options: Store quiz questions along with multiple-choice options and correct answers.
  2. Timer: Implement a timer for each question to limit the time to answer.
  3. Question Display: Present one question at a time with multiple-choice options.
  4. Answer Submission: Allow users to select an option and submit their answer within the given time.
  5. Score Calculation: Keep track of the user's score based on correct answers.
  6. Result Screen: Display the final score and a summary of correct/incorrect answers.
 
-**  STUDENT COURSE REGISTRATION SYSTEM:
+#  STUDENT COURSE REGISTRATION SYSTEM:
  Course Database: Store course information, including course code, title, description, capacity, and schedule.
  Student Database: Store student information, including student ID, name, and registered courses.
  Course Listing: Display available courses with details and available slots.
